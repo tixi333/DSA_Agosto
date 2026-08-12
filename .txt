@@ -1,0 +1,12 @@
+1- e Ninguna de las anteriores.
+2- Se debe recorrer cada arbol con el mismo metodo (in order,pre order, post order) 
+    para luego poder comparar los resultados.
+8- 
+Infija - in order
+[(2 + 6) / 8] * (9 - 2)
+
+Polaca - pre order
+[ * / + 2 6 8 - 9 2 ]
+
+Polaca inversa - post order
+[2 6 + 8 / 9 2 - *]
