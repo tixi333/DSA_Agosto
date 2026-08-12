@@ -1,6 +1,11 @@
 1- e Ninguna de las anteriores.
 2- Se debe recorrer cada arbol con el mismo metodo (in order,pre order, post order) 
-    para luego poder comparar los resultados.
+    para luego poder comparar los resultados verificando si tienen la misma estructura y los
+    mismos valores en cada nodo.
+
+3- Como la cantidad de nodos de cada padre en un arbol binario perfecto es siempre 2, con su altura se puede saber 
+la cantiad total de nodos con la fomula: 2^(h+1) - 1, donde h es la altura del arbol.
+
 8- 
 Infija - in order
 [(2 + 6) / 8] * (9 - 2)
