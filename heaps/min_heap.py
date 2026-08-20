@@ -14,6 +14,7 @@ def main(MinHeap):
     print(minheap.delete_at_location(3))
     print(minheap.delete_at_root())
 
+    print(minheap.heap_sort())
 
     
 class MinHeap:
