@@ -14,3 +14,4 @@ def printList(lista):
 print('Nodos:',vertex)
 print()
 printList(adj)
+
